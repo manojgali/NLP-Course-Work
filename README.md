@@ -3,4 +3,4 @@
 
 lab1.py contains details about Language Processing and Python.
 
-chapter1_solutions.py  contains the solutions of esxercises of chapter1. 
+chapter1_solutions.py  contains the solutions of Exercises of chapter1. 
