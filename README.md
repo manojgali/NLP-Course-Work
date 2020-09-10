@@ -4,3 +4,5 @@
 lab1.py contains details about Language Processing and Python.
 
 chapter1_solutions.py  contains the solutions of Exercises of chapter1. 
+
+lab2.py contains details about corpora and  conditional frequency distribution
